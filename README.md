@@ -1,11 +1,6 @@
 <h1 align="center">Hello, I'm Ashwath S</h1>
 <h3 align="center">WEB3 Frontend Developer proficient in React, JavaScript and Skilled in Web3 frameworks such as Wagmi and Ether.js, API and smart contract integration.</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwath-1832&label=Profile%20views&color=0e75b6&style=flat" alt="ashwath-1832" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwath-1832" alt="ashwath-1832" /></a> </p>
-
 - 📝 I regularly write articles on [www.linkedin.com/in/ashwath1832](www.linkedin.com/in/ashwath1832)
 
 - 📫 How to reach me **Ashwathsubramani1832@gmail.com**
