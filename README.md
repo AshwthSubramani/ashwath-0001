@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **Ashwathsubramani1832@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFtMcn049A/rJmobRkC0DxNmCGhnXiEQg/edit?utm_content=DAFtMcn049A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFtMcn049A/rJmobRkC0DxNmCGhnXiEQg/edit?utm_content=DAFtMcn049A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
