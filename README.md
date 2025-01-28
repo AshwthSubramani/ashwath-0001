@@ -1,7 +1,6 @@
 <h1 align="center">Hello, I'm Ashwath S</h1>
 <h3 align="center">Frontend Developer | MERN Stack </h3>
 
-- 📝 Connect with me [www.linkedin.com/in/ashwath1832](www.linkedin.com/in/ashwath1832)
 
 - 📫 How to reach me **Ashwathsubramani1832@gmail.com**
 
