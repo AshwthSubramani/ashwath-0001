@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Ashwath S</h1>
-<h3 align="center">WEB3 Frontend Developer proficient in React, JavaScript and Skilled in Web3 frameworks such as Wagmi and Ether.js, API and smart contract integration.</h3>
+<h3 align="center">Frontend Developer | MERN Stack </h3>
 
-- 📝 I regularly write articles on [www.linkedin.com/in/ashwath1832](www.linkedin.com/in/ashwath1832)
+- 📝 Connect with me [www.linkedin.com/in/ashwath1832](www.linkedin.com/in/ashwath1832)
 
 - 📫 How to reach me **Ashwathsubramani1832@gmail.com**
 
