@@ -3,7 +3,7 @@
 I’m Front-End Developer specializing in MERN stack with hands-on experience working with React JS, APIs, UI Components, Version Control (Git) and Web3 technologies.<br>I focus on building clean structured, responsive interfaces which delivers smooth user experiences.
 
 
-## Connect with me:
+# Connect with me:
 <h5> Ashwathsubramani1832@gmail.com</h5>
 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ashwath2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwath1832) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ashwath_0001)
