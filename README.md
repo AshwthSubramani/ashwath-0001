@@ -17,5 +17,5 @@ I’m Front-End Developer specializing in MERN stack with hands-on experience wo
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ashwath-1832&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ashwath-1832&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwath-1832&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
