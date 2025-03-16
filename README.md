@@ -4,7 +4,7 @@ I’m Front-End Developer specializing in MERN stack with hands-on experience wo
 
 
 ## Connect with me:
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwathsubramani1832@gmail.com) 
+[![Ashwathsubramani1832@gmail.com](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwathsubramani1832@gmail.com) 
 
 <h5>Ashwathsubramani1832@gmail.com</h5>
 
