@@ -1,4 +1,4 @@
-<h1 align="center">Hey! I'm Ashwath S</h1>
+<h1 align="center">Hey! I'm Ashwath</h1>
 
 I’m Front-End Developer specializing in MERN stack with hands-on experience working with React JS, APIs, UI Components, Version Control (Git) and Web3 technologies.<br>I focus on building clean structured, responsive interfaces which delivers smooth user experiences.
 
